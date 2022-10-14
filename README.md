@@ -1,7 +1,8 @@
 # Figures
 Schwinger model figures
 
-b5_Nf2_ResMpi_WilsonFermions --> Residual pion mass as a function of L for the two flavors case. Results obtained with Wilson fermions. Parameters: beta = 5, Lt = 32, Nf = 2, Fermions = Wilson, Nmeas = 10 000, sigma = 1.
+b5_Nf2_ResMpi_WilsonFermions --> Residual pion mass as a function of L for the two flavors case. Results obtained with Wilson fermions. 
+Parameters: beta = 5, Lt = 32, Nf = 2, Fermions = Wilson, Nmeas = 10 000, sigma = 1.
 
 b5_Mpi_vs_m2g_WilsonFermions_AllL --> Pion mass as a function of (m²g)^1/3 for several values of L. Two flavors case.
 Parameters: beta = 5, Lt = 64, L = 6, 7, 8, 9, 10, 11, 12, Nf= 2, Fermions = Wilson, NMeas = 10 000, sigma = 1.
