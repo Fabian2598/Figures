@@ -13,7 +13,7 @@ Schwinger model figures
 
   **Parameters**: $\beta$ = 5, $L_t$ = 20, $L$ = 20, $N_f$ =  2, 3, 4, 5, 6, Fermions = Overlap, Nmeas = 30 000, sigma = 1.
 
-* [b5_20x20_GMOR.pdf](b5_24x24_GMOR.pdf) &rarr; $F_\pi$ obtained through the Gell-Mann--Oakes--Renner relation.
+* [b5_24x24_GMOR.pdf](b5_24x24_GMOR.pdf) &rarr; $F_\pi$ obtained through the Gell-Mann--Oakes--Renner relation.
 
   **Parameters**: $\beta$ = 5, $L_t$ = 24, $L$ = 24, $N_f$ =  2, 3, 4, 5, 6, Fermions = Overlap, Nmeas = 30 000, sigma = 1.
  
