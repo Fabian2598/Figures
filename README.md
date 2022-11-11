@@ -11,7 +11,11 @@ Schwinger model figures
 
 * [b5_20x20_GMOR.pdf](b5_20x20_GMOR.pdf) &rarr; $F_\pi$ obtained through the Gell-Mann--Oakes--Renner relation.
 
-  **Parameters**: $\beta$ = 5, $L_t$ = 20, $L$ = 20, $N_f$ = 0, 1, 2, 3, 4, 5, 6, Fermions = Overlap, Nmeas = 30 000, sigma = 1.
+  **Parameters**: $\beta$ = 5, $L_t$ = 20, $L$ = 20, $N_f$ =  2, 3, 4, 5, 6, Fermions = Overlap, Nmeas = 30 000, sigma = 1.
+
+* [b5_20x20_GMOR.pdf](b5_24x24_GMOR.pdf) &rarr; $F_\pi$ obtained through the Gell-Mann--Oakes--Renner relation.
+
+  **Parameters**: $\beta$ = 5, $L_t$ = 24, $L$ = 24, $N_f$ =  2, 3, 4, 5, 6, Fermions = Overlap, Nmeas = 30 000, sigma = 1.
  
 * [b4_Nf2_ResMpi_overlap.pdf](b4_Nf2_ResMpi_overlap.pdf) &rarr; Residual pion mass as a function of $L$ for the two flavors case.
 
