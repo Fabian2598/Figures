@@ -3,11 +3,11 @@ Schwinger model figures
 
 * [b5_Nf2_ResMpi_WilsonFermions.pdf](b5_Nf2_ResMpi_WilsonFermions.pdf) &rarr; Residual pion mass as a function of $L$ for the two flavors case. Results obtained with Wilson fermions. 
 
-  **Parameters**: $\beta$ = 5, $L_t$ = 64, $N_f$ = 2, Fermions = Wilson, Nmeas = 10 000, sigma = 1.
+  **Parameters**: $\beta$ = 5, $L_t$ = 64, $N_f$ = 2, Fermions = Wilson, Nmeas = 10 000, sigma = 3.
 
 * [b5_Mpi_vs_m2g_WilsonFermions_AllL.pdf](b5_Mpi_vs_m2g_WilsonFermions_AllL.pdf) &rarr; Pion mass as a function of $(m²g)^{1/3}$ for several values of $L$. Two flavors case.
 
-  **Parameters**: $\beta$ = 5, $L_t$ = 64, $L$ = 6, 7, 8, 9, 10, 11, 12, $N_f$= 2, Fermions = Wilson, NMeas = 10 000, sigma = 1.
+  **Parameters**: $\beta$ = 5, $L_t$ = 64, $L$ = 6, 7, 8, 9, 10, 11, 12, $N_f$= 2, Fermions = Wilson, NMeas = 10 000, sigma = 3.
 
 * [b5_20x20_GMOR.pdf](b5_20x20_GMOR.pdf) &rarr; $F_\pi$ obtained through the Gell-Mann--Oakes--Renner relation.
 
